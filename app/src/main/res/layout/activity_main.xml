@@ -19,7 +19,7 @@
         app:layout_constraintVertical_bias="0.064" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/tutorial"
         android:layout_width="411dp"
         android:layout_height="37dp"
         android:background="#000000"
@@ -59,7 +59,7 @@
         tools:layout_editor_absoluteY="167dp" />
 
     <Button
-        android:id="@+id/btnB2"
+        android:id="@+id/btnC"
         android:layout_width="402dp"
         android:layout_height="47dp"
         android:background="#046C09"
